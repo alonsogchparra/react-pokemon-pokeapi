@@ -1,3 +1,6 @@
+html {
+  background-color: #e0e0e0;
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +8,39 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #e0e0e0;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.makeStyles-root-1.css-bhp9pd-MuiPaper-root-MuiCard-root {
+  margin: 0 auto;
+}
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.makeStyles-root-5.css-bhp9pd-MuiPaper-root-MuiCard-root {
+  margin: 0 auto;
+}
+
+.MuiContainer-root.MuiContainer-maxWidthLg.css-1oqqzyl-MuiContainer-root {
+  background-color: #e0e0e0;
+}
+
+.rotating {
+  animation: rotating 2s linear infinite;
+}
+
+.pokeball {
+  display: flex;
+  margin: 0 auto;
+}
+
+@keyframes rotating {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
