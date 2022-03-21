@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-pokemon-pokeapi/static/css/main.e7b3df4b.css",
-    "main.js": "/react-pokemon-pokeapi/static/js/main.1301b4cb.js",
+    "main.css": "/react-pokemon-pokeapi/static/css/main.21956de4.css",
+    "main.js": "/react-pokemon-pokeapi/static/js/main.82b0c2a8.js",
     "static/js/787.80b0b2f2.chunk.js": "/react-pokemon-pokeapi/static/js/787.80b0b2f2.chunk.js",
     "static/media/pokeball.png": "/react-pokemon-pokeapi/static/media/pokeball.6bb926ff47ac807ef506.png",
     "static/media/pokeapi.png": "/react-pokemon-pokeapi/static/media/pokeapi.888baca4809420be1126.png",
     "index.html": "/react-pokemon-pokeapi/index.html",
-    "main.e7b3df4b.css.map": "/react-pokemon-pokeapi/static/css/main.e7b3df4b.css.map",
-    "main.1301b4cb.js.map": "/react-pokemon-pokeapi/static/js/main.1301b4cb.js.map",
+    "main.21956de4.css.map": "/react-pokemon-pokeapi/static/css/main.21956de4.css.map",
+    "main.82b0c2a8.js.map": "/react-pokemon-pokeapi/static/js/main.82b0c2a8.js.map",
     "787.80b0b2f2.chunk.js.map": "/react-pokemon-pokeapi/static/js/787.80b0b2f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7b3df4b.css",
-    "static/js/main.1301b4cb.js"
+    "static/css/main.21956de4.css",
+    "static/js/main.82b0c2a8.js"
   ]
 }
