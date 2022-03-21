@@ -119,10 +119,6 @@ export const Dashboard = () => {
 
   const classes = useStyles();
 
-  console.log('PokemonList', pokemonList);
-  console.log('Pokemonfound', pokemonFound);
-  console.log('isSearching', isSearching);
-
   return (
     <div style={{ backgroundColor: '#e0e0e0' }}>
       <CssBaseline />
